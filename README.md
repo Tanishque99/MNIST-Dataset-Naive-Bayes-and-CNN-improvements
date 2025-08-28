@@ -108,5 +108,4 @@ For a detailed explanation of the methodology, equations, results, and discussio
 
 ---
 
-# MNIST-Dataset-Naive-Bayes-and-CNN-improvements
-# MNIST-Dataset-Naive-Bayes-and-CNN-improvements
+
